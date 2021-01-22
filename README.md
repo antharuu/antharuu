@@ -1,1 +1,1 @@
-![Antharuu card](https://github-readme-stats.vercel.app/api?username=antharuu&show_icons=true&bg_color=33,12F2B7,C6A4FF&title_color=374B43&text_color=374B43&include_all_commits=true&icon_color=374B43hide_border=false&count_private=true)
+![Antharuu card](https://github-readme-stats.vercel.app/api?username=antharuu&show_icons=true&bg_color=33,12F2B7,C6A4FF&title_color=374B43&text_color=374B43&include_all_commits=true&icon_color=374B43&hide_border=true&count_private=true)
